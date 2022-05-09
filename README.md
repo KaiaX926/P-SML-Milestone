@@ -14,7 +14,7 @@ Three main observations are obtained during the whole process based on the train
 
 ## Files
 1. **5241 STATISTICAL MACHINE LEARNING.pdf**: The detailed explanation of the training process and answers to the questions required.
-2. **plots_generator.pdf**: The original code of this pdf has some issues. The loss of the validation set is not on a similar scale since I forget to times the batch number when calculating the loss of the validation set. However, this will not influence the trends and the visualization of filters. Also, some accuracy is not printed directly. I added this file because I don't have enough time to re-run through the updated code to obtain all the correct numbers. This pdf will help understand the result visually.
+2. **plots_generator.pdf**: The original code of this pdf has some issues. The loss of the validation set is not on a similar scale since I forget to times the batch number when calculating the loss of the validation set. However, this will not influence the trends and the visualization of filters. Also, some accuracy is not printed directly. I added this file because I don't have enough time to re-run through the updated code for the `last two questions` to obtain all the correct numbers. This pdf will help understand the result visually.
 3. **5241-milestone-0508.ipynb**: The final version of code. Although not all the plots are generated, you can run through them to get the answers. 
 
 ## Nets
